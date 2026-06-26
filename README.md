@@ -1,20 +1,119 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# 🚀 NeuroFlow AI
 
-# Run and deploy your AI Studio app
+### **Automate. Analyze. Accelerate.**
 
-This contains everything you need to run your app locally.
+A premium enterprise-grade AI SaaS Landing Page built using **React, Vite, Tailwind CSS, and TypeScript**. NeuroFlow AI demonstrates modern frontend engineering practices with a responsive UI, dynamic pricing engine, enterprise dashboard, Bento Grid, glassmorphism, and high-performance animations inspired by products like Stripe, Vercel, OpenAI, and Linear.
 
-View your app in AI Studio: https://ai.studio/apps/4a0cc314-e322-4c0f-bae4-4a6b7b74b71f
+---
 
-## Run Locally
+## 🌟 Project Highlights
 
-**Prerequisites:**  Node.js
+* 💎 Enterprise-grade SaaS Landing Page
+* ⚡ Dynamic Pricing Engine
+* 💱 Multi-Currency Support (INR • USD • EUR)
+* 📅 Monthly & Annual Billing
+* 🧩 Responsive Bento Grid → Mobile Accordion
+* 📊 Interactive Analytics Dashboard
+* 🎨 Premium Glassmorphism UI
+* 🌙 Modern Dark Theme
+* 📱 Fully Responsive Design
+* ✨ Native CSS & Web Animations API
+* ♿ Accessible & Semantic HTML
+* 🚀 Performance Optimized
 
+---
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## 🛠 Tech Stack
+
+* React
+* Vite
+* TypeScript
+* Tailwind CSS
+* CSS Variables
+* CSS Animations
+* React Hooks
+
+---
+
+## 📂 Folder Structure
+
+```text
+src/
+├── components/
+├── constants/
+├── hooks/
+├── App.tsx
+├── main.tsx
+└── index.css
+```
+
+---
+
+## 🚀 Getting Started
+
+### Clone Repository
+
+```bash
+git clone https://github.com/Varshita1210/NeuroFlow-AI.git
+```
+
+### Install Dependencies
+
+```bash
+npm install
+```
+
+### Run Development Server
+
+```bash
+npm run dev
+```
+
+---
+
+## 🎯 Features
+
+* Sticky Glass Navigation
+* Premium Hero Section
+* Trusted Companies Showcase
+* Interactive Dashboard Preview
+* Responsive Feature Grid
+* Dynamic Pricing Engine
+* Customer Testimonials
+* Accessible FAQ
+* Conversion-focused CTA
+* Modern Footer
+* Smooth Micro-interactions
+* SEO Friendly Structure
+
+---
+
+## 📸 Screenshots
+
+Screenshots will be added after deployment.
+
+---
+
+## 🌐 Live Demo
+
+Deployment link will be added after publishing.
+
+---
+
+## 🏆 Project Purpose
+
+This project was developed as a frontend engineering challenge to demonstrate modern UI/UX design, responsive layouts, component-based architecture, and production-ready React development practices.
+
+---
+
+## 👩‍💻 Author
+
+**Varshita Pallapothu**
+
+B.Tech – Computer Science & Engineering (AI & ML)
+
+---
+
+## 📄 License
+
+This project is intended for educational, portfolio, and frontend engineering competition purposes.
