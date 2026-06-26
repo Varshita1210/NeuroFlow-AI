@@ -1,0 +1,6 @@
+{
+  "name": "NeuroFlow AI",
+  "description": "Automate. Analyze. Accelerate. NeuroFlow AI is an advanced AI-powered data automation platform that intelligently connects workflows, automates business operations, and delivers actionable insights in real time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
