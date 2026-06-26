@@ -88,15 +88,9 @@ npm run dev
 
 ---
 
-## 📸 Screenshots
-
-Screenshots will be added after deployment.
-
----
-
 ## 🌐 Live Demo
 
-Deployment link will be added after publishing.
+https://neuro-flow-ai-amber.vercel.app/
 
 ---
 
